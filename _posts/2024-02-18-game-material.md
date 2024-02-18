@@ -83,6 +83,15 @@ CAT TV，[专为猫猫制作的高帧率动画片](https://www.bilibili.com/vide
 
 
 
+### 2D游戏
+
+Never Grave: The Witch and The Curse，[动作、系统、建筑、多人联机等](https://www.bilibili.com/video/BV1kQ4y1w7gF/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+![]({{ site.baseurl }}/assets/images/game_material/v0010_1.png){:height="40%" width="40%"}
+![]({{ site.baseurl }}/assets/images/game_material/v0010_2.png){:height="40%" width="40%"}
+
+
+
 ### 别样游戏
 
 
