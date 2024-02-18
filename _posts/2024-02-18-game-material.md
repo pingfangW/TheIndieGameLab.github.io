@@ -17,6 +17,7 @@ image: assets/images/5.jpg
 ![]({{ site.baseurl }}/assets/images/game_material/v0001_1.png){:height="40%" width="40%"}
 ![]({{ site.baseurl }}/assets/images/game_material/v0001_2.png){:height="40%" width="40%"}
 
+
 ### 别样动画
 
 
@@ -25,6 +26,12 @@ CAT TV，[专为猫猫制作的高帧率动画片](https://www.bilibili.com/vide
 
 ![]({{ site.baseurl }}/assets/images/game_material/v0006_1.png){:height="40%" width="40%"}
 ![]({{ site.baseurl }}/assets/images/game_material/v0006_2.png){:height="40%" width="40%"}
+
+
+二维动画练习参考，[神级运镜](https://www.bilibili.com/video/BV12C4y1M79T/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+![]({{ site.baseurl }}/assets/images/game_material/v0011_1.png){:height="40%" width="40%"}
+![]({{ site.baseurl }}/assets/images/game_material/v0011_2.png){:height="40%" width="40%"}
 
 
 
