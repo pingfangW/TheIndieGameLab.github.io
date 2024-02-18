@@ -28,3 +28,9 @@ FPS游戏关卡制作，[小技巧](https://www.bilibili.com/video/BV1fa4y1y7W8/
 
 CG打斗动画以及制作过程分解！[动画原理-力学-镜头-设计案例综合！](https://www.bilibili.com/video/BV1gQ4y1L768/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
+[动画原理/力学/镜头/设计](https://www.bilibili.com/video/BV1NW4y1w7Jx/?spm_id_from=333.788.recommend_more_video.-1&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+## 游戏杂谈合集
+
+[1](https://www.bilibili.com/video/BV1z14y127yz/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
