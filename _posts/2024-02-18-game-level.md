@@ -29,6 +29,7 @@ FPS游戏关卡制作，[小技巧](https://www.bilibili.com/video/BV1fa4y1y7W8/
 
 打击效果，[小练习](https://www.bilibili.com/video/BV1fc411U7TG/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
+像游戏设计师一样思考，[学习](https://www.bilibili.com/video/BV1Jw41137NF/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 ## 游戏动作设计
 
