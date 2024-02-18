@@ -130,6 +130,7 @@ Never Grave: The Witch and The Curse，[动作、系统、建筑、多人联机�
 
 [关卡拆解](https://www.bilibili.com/video/BV1TQ4y1g7Hj/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
+[招式判定](https://www.bilibili.com/video/BV1DK411b7dg/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 
 
