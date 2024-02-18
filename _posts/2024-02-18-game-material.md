@@ -25,7 +25,7 @@ image: assets/images/5.jpg
 ![]({{ site.baseurl }}/assets/images/game_material/v0002_1.png){:height="40%" width="40%"}
 ![]({{ site.baseurl }}/assets/images/game_material/v0002_2.png){:height="40%" width="40%"}
 
-紫塞秋风，[武侠](https://www.bilibili.com/video/BV1HF4m1M7gk/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+紫塞秋风，[武侠](https://www.bilibili.com/video/BV1hJ4m1b7RP/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 ![]({{ site.baseurl }}/assets/images/game_material/v0003_1.png){:height="40%" width="40%"}
 ![]({{ site.baseurl }}/assets/images/game_material/v0003_2.png){:height="40%" width="40%"}
