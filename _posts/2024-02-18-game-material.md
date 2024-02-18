@@ -111,8 +111,11 @@ Never Grave: The Witch and The Curse，[动作、系统、建筑、多人联机�
 ![]({{ site.baseurl }}/assets/images/game_material/v0010_2.png){:height="40%" width="40%"}
 
 
+云梦奇旅，[14天做一款独立游戏](https://www.bilibili.com/video/BV1is4y1N7Mt/?spm_id_from=333.788&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 ### 别样游戏
+
+数列棋，[方寸之间的数字博弈](https://www.bilibili.com/video/BV1XQ4y1j7L8/?spm_id_from=333.788&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 
 ### 开发中游戏

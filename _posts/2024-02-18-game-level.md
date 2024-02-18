@@ -49,10 +49,13 @@ CG打斗动画以及制作过程分解！[动画原理-力学-镜头-设计案�
 
 ## 游戏分析
 
-《奥日与萤火意志》深度拆解报告，[游戏设计](https://www.bilibili.com/video/BV1Ju4y1M7Qt/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
-
-https://www.bilibili.com/video/BV1Rx4y137ct/?spm_id_from=333.788&vd_source=843d2f88a344d4bca0c6c0456efb4839
+《奥日与萤火意志》深度拆解报告，[游戏设计](https://www.bilibili.com/video/BV1Ju4y1M7Qt/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)，[拆解结果反思/勘误](https://www.bilibili.com/video/BV13c411k7zH/?spm_id_from=333.788&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 
 《Undertale》自上而下分析报告，[游戏设计](https://www.bilibili.com/video/BV1nw41137dY/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
+
+永劫无间&流星蝴蝶剑，[差异化设计](https://www.bilibili.com/video/BV12b4y1G7oF/?spm_id_from=333.788&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+
+炉石传说，[为什么不好玩](https://www.bilibili.com/video/BV1z5411q7Py/?spm_id_from=333.788&vd_source=843d2f88a344d4bca0c6c0456efb4839)
