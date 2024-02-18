@@ -5,7 +5,9 @@ author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 ---
-Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
+游戏参考
+
+<!-- Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
 
 > We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. 
 
@@ -17,3 +19,4 @@ The late Eugene Talmadge, in my opinion, possessed one of the better minds of Ge
 
 We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
 
+ -->
