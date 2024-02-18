@@ -56,6 +56,19 @@ CAT TV，[专为猫猫制作的高帧率动画片](https://www.bilibili.com/vide
 
 
 
+### 生存建造
+
+雾锁王国Enshroude，[多人练级生存建造](https://www.bilibili.com/video/BV1tk4y1S7BV/?spm_id_from=333.337.search-card.all.click&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+
+![]({{ site.baseurl }}/assets/images/game_material/v0007_1.png){:height="40%" width="40%"}
+![]({{ site.baseurl }}/assets/images/game_material/v0007_2.png){:height="40%" width="40%"}
+
+
+
+
+
+
 ### 别样游戏
 
 
