@@ -16,11 +16,13 @@ FPS游戏关卡制作，[小技巧](https://www.bilibili.com/video/BV1fa4y1y7W8/
 
 用于电影和游戏，[UE](https://space.bilibili.com/205136959/channel/collectiondetail?sid=1643404)
 
-游戏数值系统，[极简版](https://www.bilibili.com/video/BV1Ke411S76f/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+游戏数值系统，[极简版](https://www.bilibili.com/video/BV1Ke411S76f/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)，[ECS框架](https://www.bilibili.com/video/BV1eV411F7e1/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 CraigPerko游戏设计，[随机故事，写作基础，基于探索冒险游戏，随机数值，超自然体系，罐头游戏](https://www.bilibili.com/video/BV1Ea4y1D7td/?spm_id_from=333.788&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 [书籍和学习渠道推荐](https://www.bilibili.com/video/BV1b94y1j7Rz/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+设计方法合集，[MDA三步法，自我设计，表达语言，正负反馈系统，经济系统，保护玩家体验，游戏测试](https://www.bilibili.com/video/BV1V14y1k7YJ/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 
 ## 游戏开发技巧
@@ -49,6 +51,21 @@ CraigPerko游戏设计，[随机故事，写作基础，基于探索冒险游戏
 发售，[如何选时间](https://www.bilibili.com/video/BV1su4y1E7fE/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 配音，[中配解构](https://www.bilibili.com/video/BV1594y1375b/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+角色，[魅力](https://www.bilibili.com/video/BV1234y1M7z9/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+难点，[聊聊自己做游戏的难点《美杜莎的凝望》](https://www.bilibili.com/video/BV1yj41187c7/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+心流理论，[张力和难度](https://www.bilibili.com/video/BV1jN411J7zR/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)，[心流渠道](https://www.bilibili.com/video/BV1MC4y1Z71t/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+循环，[心智模型与行为反馈](https://www.bilibili.com/video/BV1Hw411k7k2/?spm_id_from=333.788.recommend_more_video.-1&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+行走，[细节](https://www.bilibili.com/video/BV1zu411M7K4/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+射击，[手感](https://www.bilibili.com/video/BV1yG411X74T/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+魂，[套路](https://www.bilibili.com/video/BV1FG411R7cB/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
 
 ## 游戏动作设计
 
@@ -88,6 +105,11 @@ CG打斗动画以及制作过程分解！[动画原理-力学-镜头-设计案�
 
 只狼，[基础战斗技巧](https://www.bilibili.com/video/BV1vA411577i/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
+最后生还者，[战斗玩法设计](https://www.bilibili.com/video/BV1B841117Wu/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+Planet of Lana，[分析](https://www.bilibili.com/video/BV18K4y1w7Uf/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+异端尖叉，[类幸存者与塔防的奇妙反应](https://www.bilibili.com/video/BV1Ap4y1A7q2/?spm_id_from=333.788&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 
 ## 游戏镜头设计
