@@ -44,6 +44,8 @@ CraigPerko游戏设计，[随机故事，写作基础，基于探索冒险游戏
 
 游戏性能优化，[优化](https://www.bilibili.com/video/BV19i4y1e7RC/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
+踩坑，[避免](https://www.bilibili.com/video/BV1pN411M7MK/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
 ## 游戏动作设计
 
 蜘蛛侠动作设计，[David Han](https://www.bilibili.com/video/BV1vK4y1B7WC/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
@@ -80,6 +82,7 @@ CG打斗动画以及制作过程分解！[动画原理-力学-镜头-设计案�
 
 心灵杀手2，[概念设计图](https://www.bilibili.com/video/BV16e411o7VC/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)，[讲故事](https://www.bilibili.com/video/BV1kc411S7wX/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
+只狼，[基础战斗技巧](https://www.bilibili.com/video/BV1vA411577i/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 
 
