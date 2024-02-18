@@ -48,6 +48,8 @@ CraigPerko游戏设计，[随机故事，写作基础，基于探索冒险游戏
 
 发售，[如何选时间](https://www.bilibili.com/video/BV1su4y1E7fE/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
+配音，[中配解构](https://www.bilibili.com/video/BV1594y1375b/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
 ## 游戏动作设计
 
 蜘蛛侠动作设计，[David Han](https://www.bilibili.com/video/BV1vK4y1B7WC/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
