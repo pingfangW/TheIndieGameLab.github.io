@@ -12,7 +12,7 @@ image: assets/images/5.jpg
 ## 动画
 ### 武打动画
 
-[传统水墨风的武侠打斗](https://www.bilibili.com/video/BV1pC411z7Uj/?spm_id_from=333.999.0.0)
+枕刀歌，[传统水墨风的武侠打斗](https://www.bilibili.com/video/BV1pC411z7Uj/?spm_id_from=333.999.0.0)
 
 ![]({{ site.baseurl }}/assets/images/game_material/v0001_1.png){:height="30%" width="30%"}
 ![]({{ site.baseurl }}/assets/images/game_material/v0001_2.png){:height="40%" width="30%"}
@@ -24,6 +24,11 @@ image: assets/images/5.jpg
 
 ![]({{ site.baseurl }}/assets/images/game_material/v0002_1.png){:height="30%" width="30%"}
 ![]({{ site.baseurl }}/assets/images/game_material/v0002_2.png){:height="30%" width="30%"}
+
+紫塞秋风，[武侠](https://www.bilibili.com/video/BV1HF4m1M7gk/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+![]({{ site.baseurl }}/assets/images/game_material/v0003_1.png){:height="30%" width="30%"}
+![]({{ site.baseurl }}/assets/images/game_material/v0003_2.png){:height="30%" width="30%"}
 
 <!-- Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
 
