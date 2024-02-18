@@ -18,6 +18,8 @@ FPS游戏关卡制作，[小技巧](https://www.bilibili.com/video/BV1fa4y1y7W8/
 
 游戏数值系统，[极简版](https://www.bilibili.com/video/BV1Ke411S76f/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
+CraigPerko游戏设计，[随机故事，写作基础，基于探索冒险游戏，随机数值，超自然体系，罐头游戏](https://www.bilibili.com/video/BV1Ea4y1D7td/?spm_id_from=333.788&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
 
 ## 游戏开发技巧
 
@@ -34,7 +36,7 @@ FPS游戏关卡制作，[小技巧](https://www.bilibili.com/video/BV1fa4y1y7W8/
 
 提高“获得感”，[设计](https://www.bilibili.com/video/BV1Rx4y137ct/?spm_id_from=333.788&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
-
+游戏开发节奏，[何时知道一个功能做不成](https://www.bilibili.com/video/BV1G64y1L7J1/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 ## 游戏动作设计
 
