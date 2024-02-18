@@ -115,6 +115,13 @@ Never Grave: The Witch and The Curse，[动作、系统、建筑、多人联机�
 ### 别样游戏
 
 
+### 开发中游戏
+
+[双刃大刀](https://www.bilibili.com/video/BV1PW4y1N78A/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+[子弹俯冲](https://www.bilibili.com/video/BV1sW4y1P7XM/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+[打击效果](https://www.bilibili.com/video/BV1fc411U7TG/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 
 <!-- Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
