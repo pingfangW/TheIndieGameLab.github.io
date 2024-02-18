@@ -20,6 +20,8 @@ FPS游戏关卡制作，[小技巧](https://www.bilibili.com/video/BV1fa4y1y7W8/
 
 CraigPerko游戏设计，[随机故事，写作基础，基于探索冒险游戏，随机数值，超自然体系，罐头游戏](https://www.bilibili.com/video/BV1Ea4y1D7td/?spm_id_from=333.788&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
+[书籍和学习渠道推荐](https://www.bilibili.com/video/BV1b94y1j7Rz/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
 
 ## 游戏开发技巧
 
@@ -73,6 +75,10 @@ CG打斗动画以及制作过程分解！[动画原理-力学-镜头-设计案�
 上古卷轴，[系列分析](https://www.bilibili.com/video/BV1aQ4y177u5/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 单机游戏百解，[合集](https://www.bilibili.com/video/BV1Js4y1P7Pb/?spm_id_from=333.999.0.0)
+
+雾锁王国Enshrouded，[开发过程](https://www.bilibili.com/video/BV1bw411t7Dm/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+心灵杀手2，[概念设计图](https://www.bilibili.com/video/BV16e411o7VC/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 
 ## 游戏镜头设计
