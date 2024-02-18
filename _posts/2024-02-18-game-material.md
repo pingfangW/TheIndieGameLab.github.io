@@ -17,9 +17,19 @@ image: assets/images/5.jpg
 ![]({{ site.baseurl }}/assets/images/game_material/v0001_1.png){:height="40%" width="40%"}
 ![]({{ site.baseurl }}/assets/images/game_material/v0001_2.png){:height="40%" width="40%"}
 
+### 别样动画
+
+
+CAT TV，[专为猫猫制作的高帧率动画片](https://www.bilibili.com/video/BV1uQ4y1A7NU/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+
+![]({{ site.baseurl }}/assets/images/game_material/v0006_1.png){:height="40%" width="40%"}
+![]({{ site.baseurl }}/assets/images/game_material/v0006_2.png){:height="40%" width="40%"}
+
+
 
 ## 游戏
-### 国内游戏
+### 武侠游戏
 古剑三，[皮影，剪纸和戏曲](https://www.bilibili.com/video/BV1HF4m1M7gk/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 ![]({{ site.baseurl }}/assets/images/game_material/v0002_1.png){:height="40%" width="40%"}
@@ -42,6 +52,13 @@ image: assets/images/5.jpg
 
 ![]({{ site.baseurl }}/assets/images/game_material/v0005_1.png){:height="40%" width="40%"}
 ![]({{ site.baseurl }}/assets/images/game_material/v0005_2.png){:height="40%" width="40%"}
+
+
+
+
+### 别样游戏
+
+
 
 
 <!-- Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
