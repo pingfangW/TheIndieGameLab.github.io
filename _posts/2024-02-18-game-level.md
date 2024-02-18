@@ -38,6 +38,10 @@ CraigPerko游戏设计，[随机故事，写作基础，基于探索冒险游戏
 
 游戏开发节奏，[何时知道一个功能做不成](https://www.bilibili.com/video/BV1G64y1L7J1/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
+游戏对话，[分支对话结构是否已经达到瓶颈？](https://www.bilibili.com/video/BV1r64y1L75J/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+游戏性能优化，[优化](https://www.bilibili.com/video/BV19i4y1e7RC/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
 ## 游戏动作设计
 
 蜘蛛侠动作设计，[David Han](https://www.bilibili.com/video/BV1vK4y1B7WC/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
