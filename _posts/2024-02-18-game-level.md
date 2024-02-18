@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "游戏关卡"
+title:  "游戏开发"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/3n.jpg
@@ -51,7 +51,7 @@ CG打斗动画以及制作过程分解！[动画原理-力学-镜头-设计案�
 [1](https://www.bilibili.com/video/BV1z14y127yz/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 
-## 游戏分析
+## 游戏设计分析
 
 《奥日与萤火意志》深度拆解报告，[游戏设计](https://www.bilibili.com/video/BV1Ju4y1M7Qt/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)，[拆解结果反思/勘误](https://www.bilibili.com/video/BV13c411k7zH/?spm_id_from=333.788&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
@@ -67,3 +67,8 @@ CG打斗动画以及制作过程分解！[动画原理-力学-镜头-设计案�
 上古卷轴，[系列分析](https://www.bilibili.com/video/BV1aQ4y177u5/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
 单机游戏百解，[合集](https://www.bilibili.com/video/BV1Js4y1P7Pb/?spm_id_from=333.999.0.0)
+
+
+## 游戏镜头设计
+
+镜头解读，[鬼怪](https://www.bilibili.com/video/BV1eu4y1J7w4/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
