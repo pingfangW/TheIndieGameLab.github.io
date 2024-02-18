@@ -16,6 +16,8 @@ FPS游戏关卡制作，[小技巧](https://www.bilibili.com/video/BV1fa4y1y7W8/
 
 用于电影和游戏，[UE](https://space.bilibili.com/205136959/channel/collectiondetail?sid=1643404)
 
+游戏数值系统，[极简版](https://www.bilibili.com/video/BV1Ke411S76f/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
 
 ## 游戏开发技巧
 
@@ -59,3 +61,7 @@ CG打斗动画以及制作过程分解！[动画原理-力学-镜头-设计案�
 
 
 炉石传说，[为什么不好玩](https://www.bilibili.com/video/BV1z5411q7Py/?spm_id_from=333.788&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+上古卷轴，[系列分析](https://www.bilibili.com/video/BV1aQ4y177u5/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+单机游戏百解，[合集](https://www.bilibili.com/video/BV1Js4y1P7Pb/?spm_id_from=333.999.0.0)
