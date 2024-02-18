@@ -11,7 +11,9 @@ image: assets/images/5.jpg
 
 ## 动画
 ### 武打动画
-传统水墨风的武侠打斗: https://www.bilibili.com/video/BV1pC411z7Uj/?spm_id_from=333.999.0.0
+[传统水墨风的武侠打斗](https://www.bilibili.com/video/BV1pC411z7Uj/?spm_id_from=333.999.0.0)
+![]({{ site.url }}/assets/images/game_material/v0001_1.png){:height="50%" width="50%"}
+![]({{ site.url }}/assets/images/game_material/v0001_2.png){:height="50%" width="50%"}
 
 <!-- Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
 
