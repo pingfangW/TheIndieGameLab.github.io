@@ -78,7 +78,9 @@ CG打斗动画以及制作过程分解！[动画原理-力学-镜头-设计案�
 
 雾锁王国Enshrouded，[开发过程](https://www.bilibili.com/video/BV1bw411t7Dm/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
-心灵杀手2，[概念设计图](https://www.bilibili.com/video/BV16e411o7VC/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+心灵杀手2，[概念设计图](https://www.bilibili.com/video/BV16e411o7VC/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)，[讲故事](https://www.bilibili.com/video/BV1kc411S7wX/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+
 
 
 ## 游戏镜头设计

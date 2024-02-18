@@ -119,6 +119,8 @@ Never Grave: The Witch and The Curse，[动作、系统、建筑、多人联机�
 
 卡玛拉欢乐空间，[不笑就会死的游戏](https://www.bilibili.com/video/BV1dD4y1f7o7/?spm_id_from=333.788&vd_source=843d2f88a344d4bca0c6c0456efb4839)
 
+[史莱姆模拟](https://www.bilibili.com/video/BV16w411h7XQ/?spm_id_from=333.999.0.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
 
 ### 开发中游戏
 
