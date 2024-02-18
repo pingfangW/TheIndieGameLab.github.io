@@ -30,6 +30,12 @@ image: assets/images/5.jpg
 ![]({{ site.baseurl }}/assets/images/game_material/v0003_1.png){:height="30%" width="30%"}
 ![]({{ site.baseurl }}/assets/images/game_material/v0003_2.png){:height="30%" width="30%"}
 
+乂闻录：轮回，[武侠](https://www.bilibili.com/video/BV17A4m1L72C/?spm_id_from=333.788.recommend_more_video.0&vd_source=843d2f88a344d4bca0c6c0456efb4839)
+
+
+![]({{ site.baseurl }}/assets/images/game_material/v0004_1.png){:height="30%" width="30%"}
+![]({{ site.baseurl }}/assets/images/game_material/v0004_2.png){:height="30%" width="30%"}
+
 <!-- Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
 
 > We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. 
