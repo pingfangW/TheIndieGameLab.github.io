@@ -3,7 +3,7 @@ layout: post
 title:  "游戏音效"
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/4.jpg
+image: assets/images/4n.jpg
 ---
 游戏音效和音乐设计.
 

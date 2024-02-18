@@ -3,7 +3,7 @@ layout: post
 title:  "游戏素材"
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/5.jpg
+image: assets/images/5n.jpg
 ---
 游戏参考。
 

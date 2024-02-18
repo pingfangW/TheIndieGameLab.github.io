@@ -3,7 +3,7 @@ layout: post
 title:  "游戏环境"
 author: john
 categories: [ Jekyll, tutorial ]
-image: assets/images/6.jpg
+image: assets/images/6n.jpg
 ---
 游戏环境设计.
 
