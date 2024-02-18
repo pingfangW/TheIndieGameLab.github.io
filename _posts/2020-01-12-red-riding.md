@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Red Riding Hood"
+title:  "游戏关卡"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg

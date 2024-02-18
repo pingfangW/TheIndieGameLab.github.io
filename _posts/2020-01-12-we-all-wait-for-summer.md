@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "游戏建模"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 ---
