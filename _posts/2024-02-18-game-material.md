@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "素材参考"
+title:  "游戏素材"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
