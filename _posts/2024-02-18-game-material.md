@@ -5,7 +5,13 @@ author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 ---
-游戏参考
+游戏参考。
+
+涉及到一些动画以及现有的游戏，可以作为自己游戏制作的参考素材。
+
+## 动画
+### 武打动画
+传统水墨风的武侠打斗: https://www.bilibili.com/video/BV1pC411z7Uj/?spm_id_from=333.999.0.0
 
 <!-- Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
 
